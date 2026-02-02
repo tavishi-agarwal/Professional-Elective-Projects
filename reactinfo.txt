@@ -1,0 +1,20 @@
+npx create -react -app (name of ur app) // slower and heavier
+npx create vite@latest //lighter faster and has more command and features 
+
+settings-system-advanced-powwershell-change execution policy 
+ git ignore- file which will ignore all stuff inside it when u push ur code into github
+ index dot html, output initiate at browser, and with this we call our react file browser per 
+
+ eslint- lint features
+ packagelog.json
+ package.json contain dependencies of ur app 
+ vite.configure.js - for all the features and well use this when we use tailwild css
+ index.html --> main.jsx --> app.jsx
+ 
+//dom- creates a tree like structure, here we are crating a root and that root is app.jsx, to render it we need main .jsx
+*react works on component programming 
+?class component
+?func component 
+
+ src------------
+ 
